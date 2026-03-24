@@ -22,3 +22,5 @@ Thumbs.db
 
 # Temp
 temp-original/
+docs/*.mmd
+docs/mermaid-config.json
