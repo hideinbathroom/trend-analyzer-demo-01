@@ -24,3 +24,6 @@ Thumbs.db
 temp-original/
 docs/*.mmd
 docs/mermaid-config.json
+
+# 발표 참고자료 (개인용)
+발표_참고자료_용어해설.md
